@@ -157,6 +157,10 @@ flowchart LR
 
 [MIT](LICENSE)
 
+## Support
+
+Free and open source, and it stays that way. If it saves you time, you can [sponsor me on GitHub](https://github.com/sponsors/Abedishere).
+
 <div align="center">
 <sub>Made for agents. Readable by humans.</sub>
 </div>
